@@ -20,10 +20,13 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+### 📫 Feel free to contact me anytime
+
+[<img src="https://img.shields.io/badge/Telegram-%20%40ahmad__ramadhan2000-blue">](https://t.me/ahmad_ramadhan2000)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-[<img src="https://img.shields.io/badge/Telegram-%20%40ahmad__ramadhan2000-blue">](https://t.me/ahmad_ramadhan2000)
 <a href="https://instagram.com/ahmadramadhaaaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmadramadhaaaan" height="30" width="40" /></a>
 <a href="https://medium.com/@ahmadramadannesia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ahmadramadannesia" height="30" width="40" /></a>
 
