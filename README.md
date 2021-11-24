@@ -17,7 +17,7 @@
 
 ### My Bot
 
-[<img src="https://img.shields.io/badge/Telegram-%20%40maddddddd__bot-blue">](https://t.me/@maddddddd_bot)
+[<img src="https://img.shields.io/badge/Telegram-%20%40maddddddd__bot-blue">](https://t.me/maddddddd_bot)
 
 ### 📫 Feel free to contact me anytime
 
