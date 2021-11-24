@@ -15,10 +15,9 @@
 
 - 📫 How to reach me **ahmadramadannesia@gmail.com**
 
-### Blogs posts
+### My Bot
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[<img src="https://img.shields.io/badge/Telegram-%20%40maddddddd__bot-blue">](https://t.me/@maddddddd_bot)
 
 ### 📫 Feel free to contact me anytime
 
